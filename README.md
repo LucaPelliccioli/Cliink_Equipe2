@@ -1,6 +1,6 @@
 # Présentation Projet Cliink2
 
-## Présentation Projet
+## Présentation Projet Cliink2
 En association avec la [Communauté d’Agglomération Cannes Pays de Lérins](https://cannespaysdelerins.fr) et la fabrique [Simplon Cannes](https://simplon.co), ce projet vise à mieux visualiser et exploiter les données pour faciliter le traitement des déchets de toute l'agglomération.
 
 Dans la continuité du [premier projet Cliink](https://github.com/LucaPelliccioli/cliiink), de nouveaux jeux de données ont été cherchés afin qu'une analyse socio-démographique puisse etre établie en fonction de chacune des villes de l'agglomération.
