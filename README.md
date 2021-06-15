@@ -1,7 +1,7 @@
 # Présentation Projet Cliink2
 
-## Description
-Le stage Cliiink, en association avec la [Communauté d’Agglomération Cannes Pays de Lérins](https://cannespaysdelerins.fr) et la fabrique [Simplon Cannes](https://simplon.co), vise à mieux visualiser et exploiter les données pour faciliter le traitement des déchets de toute l'agglomération.
+## Présentation Projet
+En association avec la [Communauté d’Agglomération Cannes Pays de Lérins](https://cannespaysdelerins.fr) et la fabrique [Simplon Cannes](https://simplon.co), ce projet vise à mieux visualiser et exploiter les données pour faciliter le traitement des déchets de toute l'agglomération.
 
 Dans la continuité du [premier projet Cliink](https://github.com/LucaPelliccioli/cliiink), de nouveaux jeux de données ont été cherchés afin qu'une analyse socio-démographique puisse etre établie en fonction de chacune des villes de l'agglomération.
 
@@ -9,13 +9,6 @@ Nous avons repris les données de la population par ville, et nous les avons con
 
 Les données collectées proviennent majoritairement de l'Institut National de la Statistique et des Etudes Economiques. À noter que l'INSEE établit ses études par cycle d'année. La dernière étude menée pour établir la démographie de la population des villes de l'agglomération a été faite en 2017. Il s'agit du jeu de données le plus récent, le dernier publié par l'organisme.
 
-## Pour commencer
-Ce répertoire contient tous les codes et documents nécessaires pour reproduire les résultats obtenus dans le rapport de synthèse qui est également fourni
-
-## Copyright
-Toute exploitation ou réutilisation, même partielle, de ce code n'est possible qu'après accord explicite ; veuillez formuler votre demande sur ce [courriel](mailto:anthonyjacquemin@hotmail.fr?subject=Cliiink)
-
-## Credits
 [Luca PELLICCIOLI](https://github.com/LucaPelliccioli)
 
 [Stéphane FERNANDES](https://github.com/fernandes-stephane)
